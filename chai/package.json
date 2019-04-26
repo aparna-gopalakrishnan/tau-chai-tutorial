@@ -1,0 +1,19 @@
+{
+  "name": "mocha-chai-test",
+  "version": "1.0.0",
+  "description": "Test project to learn Chai basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "chai"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Aparna",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
