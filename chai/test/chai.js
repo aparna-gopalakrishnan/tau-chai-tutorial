@@ -59,7 +59,7 @@ function writeToAFile(error){
     // normal scenario
     // error.should.not.exist();
 
-    //Given that id and name is undefined
+    //Given that error is undefined
     should.not.exist(error);
 }
 
