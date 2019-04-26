@@ -17,7 +17,7 @@ expect(a).to.be.equals(b, "a and b are not equal");
 //should--
 a.should.be.equals(b);
 //assert
-assert.equal(a,b, 'a and are not equal');
+assert.equal(a,b, 'a and b are not equal');
 
 //object/string/boolean
 function myObj(){
